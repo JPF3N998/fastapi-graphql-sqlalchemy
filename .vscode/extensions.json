@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "ms-python.black-formatter",
+        "ms-python.pylint",
+        "ms-python.python",
+        "ms-python.debugpy",
+        "kevinrose.vsc-python-indent"
+    ]
+}
